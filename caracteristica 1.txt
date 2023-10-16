@@ -3,3 +3,5 @@ Aquí añado mis cambios de la característica 1..
 Cambio en la rama 2
 
 para fast forwars
+
+para el 2
